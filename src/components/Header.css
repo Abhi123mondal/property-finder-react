@@ -1,0 +1,29 @@
+.logo{
+    float: left;
+}
+.link{
+    float: right;
+    margin: 5px;
+    height: 40px;
+    width: 100px;
+    color: white;
+    background-color:blueviolet;
+    font-size: large;
+    margin-top: 0px;
+    border-color:white
+}
+ .h3{
+    display: inline;
+    margin: 30px;
+    padding-left: 50px;
+} 
+.link{
+    float: right;
+    margin-top:0;
+    text-align: center;
+}
+
+.header{
+    display: inline;
+
+} 

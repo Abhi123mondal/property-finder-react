@@ -1,0 +1,41 @@
+.price{
+    font-size:xx-large;
+    color: darkslateblue;
+    margin-left: 20px;
+    margin-top: 0px;
+ 
+}
+.oneline{
+    display:flex;
+margin-left: 0px;
+}
+.line{
+    margin: 20px;
+}
+.address{
+   font-size: larger; 
+   margin-left: 20px;
+}
+.country{
+    margin-left:5px;
+    font-weight:bold;
+    font-size: larger;
+}
+.type{
+    margin-top: 0px;
+    margin-left: 29px;
+    font-weight: bold;
+}
+.card{
+    height: 90vh;
+    width: 70vh;
+    background-color: rgb(223, 241, 241);
+box-shadow: 2px 2px solid black;
+}
+.row{
+    padding-top: 4rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 20px;
+   
+}
